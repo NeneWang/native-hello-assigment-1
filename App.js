@@ -9,7 +9,7 @@ export default function App() {
   useEffect(() => {
     const interval = setInterval(() => {
       setDotsShow((dotsShow) => dotsShow === 3 ? 0 : dotsShow + 1);
-    }, 1000);
+    }, 500);
     return () => clearInterval(interval);
   })
 
