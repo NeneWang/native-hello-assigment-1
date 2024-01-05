@@ -9,3 +9,8 @@ Intente hacer una pequenia animacion aca.
 ## Wireframe del Proyecto
 
 ![](./img/2023-11-15-21-23-42.png)
+
+
+```bash
+npx react-native init OnboardingTemplate
+```
